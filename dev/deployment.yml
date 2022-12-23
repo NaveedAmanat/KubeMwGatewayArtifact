@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: kashf-gateway
-        image:navedamanat/kashf-gateway:latest
+        image:navedamanat/kashf-gateway:v1
 
         imagePullPolicy: IfNotPresent
         ports:
